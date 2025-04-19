@@ -11,7 +11,7 @@ Developed as part of my Master's Thesis in Informatics and Computing Engineering
 ## 🛠️ Features
 - **Handwritten Input**: Supports freehand writing of mathematical expressions and proofs using pen-based devices.​
 - **Calculational Method Notation**: Recognizes and processes proofs written in the Calculational Method style.​
-- **Real-Time Recognition**: Provides immediate feedback by interpreting handwritten input on-the-fly.​
+- **Real-Time Recognition**: Provides immediate feedback by interpreting handwritten input on the fly.​
 - **Modular Architecture**: Built upon Seshat for recognition and a customized whiteboard interface for input.
 
 ## License
